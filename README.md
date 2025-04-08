@@ -1,5 +1,6 @@
 # Awesome
-📌 A curated list of awesome things I love
+> 📌 A curated list of awesome things I love
+>
 
 # Blog
 
@@ -11,6 +12,7 @@
 
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+- [OI-wiki](https://github.com/OI-wiki/OI-wiki) - 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
 # Shell
 
@@ -19,6 +21,8 @@
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 
 - [chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+- [1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 
 # [Go](https://github.com/golang/go)
 
@@ -32,6 +36,15 @@
 
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 
+### Editor
+
+- [CodeMirror](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
+- [ProseMirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+
+### Canvas
+
+- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+
 ### Validation 
 
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -39,10 +52,6 @@
 ### Units
 
 - [radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
-
-### Canvas
-
-- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
 ### Format
 
@@ -58,3 +67,5 @@
 # Tool
 
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+- [LocalSend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
